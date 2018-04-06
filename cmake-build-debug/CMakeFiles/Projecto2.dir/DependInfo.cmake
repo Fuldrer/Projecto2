@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Carlos/CLionProjects/Projecto2/Arbol.cpp" "C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/CMakeFiles/Projecto2.dir/Arbol.cpp.obj"
-  "C:/Users/Carlos/CLionProjects/Projecto2/Go.cpp" "C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/CMakeFiles/Projecto2.dir/Go.cpp.obj"
-  "C:/Users/Carlos/CLionProjects/Projecto2/ListaenNodo.cpp" "C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/CMakeFiles/Projecto2.dir/ListaenNodo.cpp.obj"
-  "C:/Users/Carlos/CLionProjects/Projecto2/Nodo.cpp" "C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/CMakeFiles/Projecto2.dir/Nodo.cpp.obj"
-  "C:/Users/Carlos/CLionProjects/Projecto2/Registro.cpp" "C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/CMakeFiles/Projecto2.dir/Registro.cpp.obj"
-  "C:/Users/Carlos/CLionProjects/Projecto2/main.cpp" "C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/CMakeFiles/Projecto2.dir/main.cpp.obj"
+  "C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/Arbol.cpp" "C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/CMakeFiles/Projecto2.dir/Arbol.cpp.obj"
+  "C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/Go.cpp" "C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/CMakeFiles/Projecto2.dir/Go.cpp.obj"
+  "C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/ListaenNodo.cpp" "C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/CMakeFiles/Projecto2.dir/ListaenNodo.cpp.obj"
+  "C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/Nodo.cpp" "C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/CMakeFiles/Projecto2.dir/Nodo.cpp.obj"
+  "C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/Registro.cpp" "C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/CMakeFiles/Projecto2.dir/Registro.cpp.obj"
+  "C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/main.cpp" "C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/CMakeFiles/Projecto2.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

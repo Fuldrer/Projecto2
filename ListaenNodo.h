@@ -10,7 +10,6 @@ class Nodoenlista {
 public:
     Registro root;
     Nodoenlista *next;
-    Nodoenlista *anterior;
 };
 
 

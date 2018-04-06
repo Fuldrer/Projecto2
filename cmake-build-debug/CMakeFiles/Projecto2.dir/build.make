@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2017.3.3\bin\cmake\bin\cmake.exe" -E remo
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Carlos\CLionProjects\Projecto2
+CMAKE_SOURCE_DIR = C:\Users\Carlos\Documents\Github\Projecto2\Projecto2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Carlos\CLionProjects\Projecto2\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Projecto2.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/Projecto2.dir/flags.make
 
 CMakeFiles/Projecto2.dir/main.cpp.obj: CMakeFiles/Projecto2.dir/flags.make
 CMakeFiles/Projecto2.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\CLionProjects\Projecto2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Projecto2.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto2.dir\main.cpp.obj -c C:\Users\Carlos\CLionProjects\Projecto2\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Projecto2.dir/main.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto2.dir\main.cpp.obj -c C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\main.cpp
 
 CMakeFiles/Projecto2.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Projecto2.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\CLionProjects\Projecto2\main.cpp > CMakeFiles\Projecto2.dir\main.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\main.cpp > CMakeFiles\Projecto2.dir\main.cpp.i
 
 CMakeFiles/Projecto2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Projecto2.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\CLionProjects\Projecto2\main.cpp -o CMakeFiles\Projecto2.dir\main.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\main.cpp -o CMakeFiles\Projecto2.dir\main.cpp.s
 
 CMakeFiles/Projecto2.dir/main.cpp.obj.requires:
 
@@ -82,16 +82,16 @@ CMakeFiles/Projecto2.dir/main.cpp.obj.provides.build: CMakeFiles/Projecto2.dir/m
 
 CMakeFiles/Projecto2.dir/Arbol.cpp.obj: CMakeFiles/Projecto2.dir/flags.make
 CMakeFiles/Projecto2.dir/Arbol.cpp.obj: ../Arbol.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\CLionProjects\Projecto2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Projecto2.dir/Arbol.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto2.dir\Arbol.cpp.obj -c C:\Users\Carlos\CLionProjects\Projecto2\Arbol.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Projecto2.dir/Arbol.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto2.dir\Arbol.cpp.obj -c C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\Arbol.cpp
 
 CMakeFiles/Projecto2.dir/Arbol.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Projecto2.dir/Arbol.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\CLionProjects\Projecto2\Arbol.cpp > CMakeFiles\Projecto2.dir\Arbol.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\Arbol.cpp > CMakeFiles\Projecto2.dir\Arbol.cpp.i
 
 CMakeFiles/Projecto2.dir/Arbol.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Projecto2.dir/Arbol.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\CLionProjects\Projecto2\Arbol.cpp -o CMakeFiles\Projecto2.dir\Arbol.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\Arbol.cpp -o CMakeFiles\Projecto2.dir\Arbol.cpp.s
 
 CMakeFiles/Projecto2.dir/Arbol.cpp.obj.requires:
 
@@ -106,16 +106,16 @@ CMakeFiles/Projecto2.dir/Arbol.cpp.obj.provides.build: CMakeFiles/Projecto2.dir/
 
 CMakeFiles/Projecto2.dir/Nodo.cpp.obj: CMakeFiles/Projecto2.dir/flags.make
 CMakeFiles/Projecto2.dir/Nodo.cpp.obj: ../Nodo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\CLionProjects\Projecto2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Projecto2.dir/Nodo.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto2.dir\Nodo.cpp.obj -c C:\Users\Carlos\CLionProjects\Projecto2\Nodo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Projecto2.dir/Nodo.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto2.dir\Nodo.cpp.obj -c C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\Nodo.cpp
 
 CMakeFiles/Projecto2.dir/Nodo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Projecto2.dir/Nodo.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\CLionProjects\Projecto2\Nodo.cpp > CMakeFiles\Projecto2.dir\Nodo.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\Nodo.cpp > CMakeFiles\Projecto2.dir\Nodo.cpp.i
 
 CMakeFiles/Projecto2.dir/Nodo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Projecto2.dir/Nodo.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\CLionProjects\Projecto2\Nodo.cpp -o CMakeFiles\Projecto2.dir\Nodo.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\Nodo.cpp -o CMakeFiles\Projecto2.dir\Nodo.cpp.s
 
 CMakeFiles/Projecto2.dir/Nodo.cpp.obj.requires:
 
@@ -130,16 +130,16 @@ CMakeFiles/Projecto2.dir/Nodo.cpp.obj.provides.build: CMakeFiles/Projecto2.dir/N
 
 CMakeFiles/Projecto2.dir/Registro.cpp.obj: CMakeFiles/Projecto2.dir/flags.make
 CMakeFiles/Projecto2.dir/Registro.cpp.obj: ../Registro.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\CLionProjects\Projecto2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Projecto2.dir/Registro.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto2.dir\Registro.cpp.obj -c C:\Users\Carlos\CLionProjects\Projecto2\Registro.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Projecto2.dir/Registro.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto2.dir\Registro.cpp.obj -c C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\Registro.cpp
 
 CMakeFiles/Projecto2.dir/Registro.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Projecto2.dir/Registro.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\CLionProjects\Projecto2\Registro.cpp > CMakeFiles\Projecto2.dir\Registro.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\Registro.cpp > CMakeFiles\Projecto2.dir\Registro.cpp.i
 
 CMakeFiles/Projecto2.dir/Registro.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Projecto2.dir/Registro.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\CLionProjects\Projecto2\Registro.cpp -o CMakeFiles\Projecto2.dir\Registro.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\Registro.cpp -o CMakeFiles\Projecto2.dir\Registro.cpp.s
 
 CMakeFiles/Projecto2.dir/Registro.cpp.obj.requires:
 
@@ -154,16 +154,16 @@ CMakeFiles/Projecto2.dir/Registro.cpp.obj.provides.build: CMakeFiles/Projecto2.d
 
 CMakeFiles/Projecto2.dir/ListaenNodo.cpp.obj: CMakeFiles/Projecto2.dir/flags.make
 CMakeFiles/Projecto2.dir/ListaenNodo.cpp.obj: ../ListaenNodo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\CLionProjects\Projecto2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Projecto2.dir/ListaenNodo.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto2.dir\ListaenNodo.cpp.obj -c C:\Users\Carlos\CLionProjects\Projecto2\ListaenNodo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Projecto2.dir/ListaenNodo.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto2.dir\ListaenNodo.cpp.obj -c C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\ListaenNodo.cpp
 
 CMakeFiles/Projecto2.dir/ListaenNodo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Projecto2.dir/ListaenNodo.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\CLionProjects\Projecto2\ListaenNodo.cpp > CMakeFiles\Projecto2.dir\ListaenNodo.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\ListaenNodo.cpp > CMakeFiles\Projecto2.dir\ListaenNodo.cpp.i
 
 CMakeFiles/Projecto2.dir/ListaenNodo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Projecto2.dir/ListaenNodo.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\CLionProjects\Projecto2\ListaenNodo.cpp -o CMakeFiles\Projecto2.dir\ListaenNodo.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\ListaenNodo.cpp -o CMakeFiles\Projecto2.dir\ListaenNodo.cpp.s
 
 CMakeFiles/Projecto2.dir/ListaenNodo.cpp.obj.requires:
 
@@ -178,16 +178,16 @@ CMakeFiles/Projecto2.dir/ListaenNodo.cpp.obj.provides.build: CMakeFiles/Projecto
 
 CMakeFiles/Projecto2.dir/Go.cpp.obj: CMakeFiles/Projecto2.dir/flags.make
 CMakeFiles/Projecto2.dir/Go.cpp.obj: ../Go.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\CLionProjects\Projecto2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Projecto2.dir/Go.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto2.dir\Go.cpp.obj -c C:\Users\Carlos\CLionProjects\Projecto2\Go.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Projecto2.dir/Go.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Projecto2.dir\Go.cpp.obj -c C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\Go.cpp
 
 CMakeFiles/Projecto2.dir/Go.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Projecto2.dir/Go.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\CLionProjects\Projecto2\Go.cpp > CMakeFiles\Projecto2.dir\Go.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\Go.cpp > CMakeFiles\Projecto2.dir\Go.cpp.i
 
 CMakeFiles/Projecto2.dir/Go.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Projecto2.dir/Go.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\CLionProjects\Projecto2\Go.cpp -o CMakeFiles\Projecto2.dir\Go.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\Go.cpp -o CMakeFiles\Projecto2.dir\Go.cpp.s
 
 CMakeFiles/Projecto2.dir/Go.cpp.obj.requires:
 
@@ -222,7 +222,7 @@ Projecto2.exe: CMakeFiles/Projecto2.dir/build.make
 Projecto2.exe: CMakeFiles/Projecto2.dir/linklibs.rsp
 Projecto2.exe: CMakeFiles/Projecto2.dir/objects1.rsp
 Projecto2.exe: CMakeFiles/Projecto2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Carlos\CLionProjects\Projecto2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Projecto2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Projecto2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Projecto2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -244,6 +244,6 @@ CMakeFiles/Projecto2.dir/clean:
 .PHONY : CMakeFiles/Projecto2.dir/clean
 
 CMakeFiles/Projecto2.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Carlos\CLionProjects\Projecto2 C:\Users\Carlos\CLionProjects\Projecto2 C:\Users\Carlos\CLionProjects\Projecto2\cmake-build-debug C:\Users\Carlos\CLionProjects\Projecto2\cmake-build-debug C:\Users\Carlos\CLionProjects\Projecto2\cmake-build-debug\CMakeFiles\Projecto2.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Carlos\Documents\Github\Projecto2\Projecto2 C:\Users\Carlos\Documents\Github\Projecto2\Projecto2 C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\cmake-build-debug C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\cmake-build-debug C:\Users\Carlos\Documents\Github\Projecto2\Projecto2\cmake-build-debug\CMakeFiles\Projecto2.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Projecto2.dir/depend
 

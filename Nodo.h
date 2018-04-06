@@ -14,7 +14,8 @@ public:
     Nodoenlista listrep;
     Nodo *left;
     Nodo*right;
-    int height;
+    int alturader;
+    int alturaizq;
 };
 
 

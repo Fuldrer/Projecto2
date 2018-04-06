@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Projecto2">
-				<Option output="C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Projecto2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug"/>
+				<Option output="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Projecto2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -33,15 +33,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/4.9.3/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projecto2"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projecto2"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Projecto2/fast">
-				<Option output="C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Projecto2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug"/>
+				<Option output="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Projecto2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -55,67 +55,67 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/4.9.3/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projecto2/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projecto2/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/CLionProjects/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto2/Arbol.cpp">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/Arbol.cpp">
 			<Option target="Projecto2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto2/Arbol.h">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/Arbol.h">
 			<Option target="Projecto2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto2/Go.cpp">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/Go.cpp">
 			<Option target="Projecto2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto2/Go.h">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/Go.h">
 			<Option target="Projecto2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto2/ListaenNodo.cpp">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/ListaenNodo.cpp">
 			<Option target="Projecto2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto2/ListaenNodo.h">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/ListaenNodo.h">
 			<Option target="Projecto2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto2/Nodo.cpp">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/Nodo.cpp">
 			<Option target="Projecto2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto2/Nodo.h">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/Nodo.h">
 			<Option target="Projecto2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto2/Registro.cpp">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/Registro.cpp">
 			<Option target="Projecto2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto2/Registro.h">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/Registro.h">
 			<Option target="Projecto2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto2/main.cpp">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/main.cpp">
 			<Option target="Projecto2"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos/CLionProjects/Projecto2/CMakeLists.txt">
+		<Unit filename="C:/Users/Carlos/Documents/Github/Projecto2/Projecto2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
